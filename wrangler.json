@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "code-odyssey-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "65eee1fb-7304-40d6-a40b-b68c1d48ab2b",
+			"database_name": "code-odyssey-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
